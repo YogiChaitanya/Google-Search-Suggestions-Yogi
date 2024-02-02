@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.search-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  cursor: pointer;
+  outline: none;
+}
+
+.btn {
+  border: none;
+  background-color: white;
+}
+
+.arrow-icon {
+  width: 20px;
+  height: 20px;
+
+  margin-right: 10px;
+}
